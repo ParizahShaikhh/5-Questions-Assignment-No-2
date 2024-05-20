@@ -3,8 +3,10 @@
 
 // Answer
 function countVowels(string: any) {
+  
     // Define a regular expression that matches all vowels (case-insensitive)
     const vowels = /[aeiou]/gi;
+
     // Use the match method to find all vowels in the string
     const matches = string.match(vowels);
 
