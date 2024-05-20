@@ -1,0 +1,16 @@
+{
+  "name": "5-questions-assignment-no-2",
+  "version": "1.0.0",
+  "description": "Assignment given by @dynamomanal . I have completed to 5 Questions Assignment get First Hand experience on Typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
